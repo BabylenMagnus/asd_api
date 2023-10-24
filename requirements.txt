@@ -1,0 +1,12 @@
+fastapi
+gunicorn
+uvicorn
+scenedetect
+torch
+torchvision
+opencv-python
+python-multipart
+python_speech_features
+scipy
+pandas
+scikit-image
